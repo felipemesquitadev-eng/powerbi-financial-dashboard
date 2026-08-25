@@ -28,10 +28,10 @@ Dashboard interativo desenvolvido no **Power BI** para análise de vendas, lucro
 
 O relatório é dividido em três páginas:
 
-### 📄 Páginas 1 e 2: Réplicas do Curso
-- Replicadad a partir do curso prático, com foco nas análises fundamentais de vendas, custos (COGS) e desempenho por período/produto.
+### Páginas 1 e 2: Réplicas do Curso
+- Replicadas a partir do curso prático, com foco nas análises fundamentais de vendas, custos (COGS) e desempenho por período/produto.
 
-### 📄 Página 3: Visualizações Customizadas (Desafio)
+### Página 3: Visualizações Customizadas (Desafio)
 - **Mapa de Vendas e Volume:** Exibe a soma de sales e unidades vendidas por país.
 - **Mapa de Lucro:** Análise espacial da soma de lucro (profit) por país .
 - **Gráfico de Pizza:** Distribuição do lucro por segmento de mercado (Government, Small Business, Enterprise, etc.).
