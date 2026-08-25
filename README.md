@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Dashboard interativo desenvolvido no **Power BI** para análise de vendas, lucros por segmento e distribuição geográfica com base no dataset *Financial Sample*. Projeto desenvolvido como parte do desafio prático de Fundamentos de BI (Business Intelligence) da **Digital Innovation One (DIO)**.
+Dashboard interativo desenvolvido no **Power BI** para análise de vendas, lucros por segmento e distribuição geográfica com base no dataset *Financial Sample*. Projeto desenvolvido como desafio prático de Fundamentos de BI (Business Intelligence) da **Digital Innovation One (DIO)**.
 
 ---
 
