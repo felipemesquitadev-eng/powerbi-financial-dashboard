@@ -11,11 +11,11 @@ Dashboard interativo desenvolvido no **Power BI** para análise de vendas, lucro
 
 ```text
 ├── data/
-│   └── Financial_Sample.xlsx        # Dataset original em Excel
+│   └── Financial Sample.xlsx        # Dataset original em Excel
 ├── pbix/
-│   └── dashboard_financeiro.pbix    # Arquivo do relatório do Power BI
+│   └── financial_dataset.pbix       # Arquivo do relatório do Power BI
 ├── screenshots/
-│   └── Pagina1.png                 # Imagens das páginas do relatório
+│   └── Pagina1.png                  # Imagens das páginas do relatório
 │   └── Pagina2.png
 │   └── Pagina3.png
 ├── .gitignore
@@ -29,7 +29,7 @@ Dashboard interativo desenvolvido no **Power BI** para análise de vendas, lucro
 O relatório é dividido em três páginas:
 
 ### 📄 Páginas 1 e 2: Réplicas do Curso
-- Replicadas com foco nas análises fundamentais de vendas, custos (COGS) e desempenho por período/produto.
+- Replicadad a partir do curso prático, com foco nas análises fundamentais de vendas, custos (COGS) e desempenho por período/produto.
 
 ### 📄 Página 3: Visualizações Customizadas (Desafio)
 - **Mapa de Vendas e Volume:** Exibe a soma de sales e unidades vendidas por país.
@@ -41,14 +41,16 @@ O relatório é dividido em três páginas:
 ## Como Executar o Projeto
 
 1. Clone este repositório:
+   ```bash
    git clone https://github.com/felipemesquitadev-eng/powerbi-financial-dashboard.git
-2. Baixe e instale o Power BI Desktop (caso ainda não possua).
-3. Abra o arquivo .pbix localizado na pasta pbix/.
-4. (Opcional) Caso os dados não carreguem automaticamente, redirecione a fonte de dados para o arquivo Financial_Sample.xlsx dentro da pasta data/.
+   ```
+3. Baixe e instale o Power BI Desktop (caso ainda não possua).
+4. Abra o arquivo .pbix localizado na pasta pbix/.
+5. (Opcional) Caso os dados não carreguem automaticamente, redirecione a fonte de dados para o arquivo Financial Sample.xlsx dentro da pasta data/.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Power BI Desktop** (Construção de relatórios, visualizações dinâmicas e modelagem)
 - **Microsoft Excel** (Fonte de dados)
