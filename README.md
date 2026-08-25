@@ -7,23 +7,6 @@ Dashboard interativo desenvolvido no **Power BI** para análise de vendas, lucro
 
 ---
 
-## Estrutura do Repositório
-
-```text
-├── data/
-│   └── Financial Sample.xlsx        # Dataset original em Excel
-├── pbix/
-│   └── financial_dataset.pbix       # Arquivo do relatório do Power BI
-├── screenshots/
-│   └── Pagina1.png                  # Imagens das páginas do relatório
-│   └── Pagina2.png
-│   └── Pagina3.png
-├── .gitignore
-├── LICENSE
-└── README.md
-```
----
-
 ## Visão Geral do Relatório
 
 O relatório é dividido em três páginas:
@@ -44,9 +27,8 @@ O relatório é dividido em três páginas:
    ```bash
    git clone https://github.com/felipemesquitadev-eng/powerbi-financial-dashboard.git
    ```
-3. Baixe e instale o Power BI Desktop (caso ainda não possua).
-4. Abra o arquivo .pbix localizado na pasta pbix/.
-5. (Opcional) Caso os dados não carreguem automaticamente, redirecione a fonte de dados para o arquivo Financial Sample.xlsx dentro da pasta data/.
+2. Baixe e instale o Power BI Desktop (caso ainda não possua).
+3. Abra o arquivo .pbix localizado na pasta pbix/.
 
 ---
 
